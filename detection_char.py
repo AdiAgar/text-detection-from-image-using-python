@@ -1,3 +1,4 @@
+#In this we are going to extract text from image word by word
 import cv2
 import pytesseract
 
